@@ -32,6 +32,14 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <br>
 <br>
 
+## Live Projects
+
+<p>
+<a asos-clone.netlify.app" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Asos&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike"/></a>
+
+<a href="https://github.com/sathish-02/Epic_Games_Backend" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Big_Basket&color=000000&logo=Epic-Games&logoColor=FFFFFF&label=" alt="adidas"/></a>
+</p>
+
 
 ## 👉 Languages and Tools
 
