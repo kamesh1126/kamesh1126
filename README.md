@@ -35,7 +35,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 ## Live Projects
 
 <p>
-<a https://asos-clone.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Asos&color=000000&logo=Asos&logoColor=FFFFFF&label=" alt="Asos"/></a>
+<a href="https://asos-clone.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Asos&color=000000&logo=Asos&logoColor=FFFFFF&label=" alt="Asos"/></a>
 
 <a href="https://big-basket-website-clone.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Big_Basket&color=000000&logo=Big_Basket&logoColor=FFFFFF&label=" alt="Big_Basket"/></a>
 </p>
