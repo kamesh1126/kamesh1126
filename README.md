@@ -40,7 +40,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <a href="https://big-basket-website-clone.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Big_Basket&color=000000&logo=Big_Basket&logoColor=FFFFFF&label=" alt="Big_Basket"/></a>
 	
 	
-<a href="https://vocal-otter-b01c49.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=HindustanTimes&color=000000&logo=HindustanTimes&logoColor=FFFFFF&label=" alt="HindustanTimes"/></a>
+<a href="https://vocal-otter-b01c49.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hindustan_Times&color=000000&logo=Hindustan_Times&logoColor=FFFFFF&label=" alt="Hindustan_Times"/></a>
 </p>
 
 
